@@ -1,0 +1,10 @@
+body {
+	background: grey;
+	font-family: Arial;
+}
+h1, h2, p, li{
+	color: black;
+}
+a{
+	color:red;
+}
